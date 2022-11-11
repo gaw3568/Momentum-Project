@@ -1,3 +1,3 @@
 # Momentum
 
-This is Momentum_Practice App for coding practice.
+This is Momentum App for Clone Coding Project
